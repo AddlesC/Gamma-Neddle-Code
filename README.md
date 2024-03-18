@@ -1,5 +1,5 @@
 
-# Anàlisas de Datos para el Prototipo de Detector Aguja Gamma.
+# Análisis de Datos para el Prototipo de Detector Aguja Gamma.
 
 ## Se estudian pulsos de MPPC y PMT a partir de datos de Osciloscopio Tektronix MSO44
 
