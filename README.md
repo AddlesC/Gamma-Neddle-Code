@@ -1,4 +1,7 @@
-# Análisis de Pulsos MPPC y PMT a partir de Datos de Osciloscopio Tektronix MSO44
+
+#Anàlisas de Datos para el Prototipo de Detector Aguja Gamma.
+
+##Se estudian pulsos de MPPC y PMT a partir de datos de Osciloscopio Tektronix MSO44
 
 Este repositorio contiene scripts en Python para el análisis de señales capturadas con el osciloscopio Tektronix MSO44, específicamente diseñados para trabajar con datos de detectores MPPC (Multi-Pixel Photon Counter) y PMT (Photomultiplier Tube). Los datos de entrada se esperan en formato CSV, donde la primera columna representa el tiempo y las columnas subsiguientes representan los canales del osciloscopio, con cada fila indicando un valor de voltaje.
 
